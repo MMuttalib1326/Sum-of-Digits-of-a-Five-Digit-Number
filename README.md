@@ -1,4 +1,5 @@
 # Sum-of-Digits-of-a-Five-Digit-Number
+C language
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
